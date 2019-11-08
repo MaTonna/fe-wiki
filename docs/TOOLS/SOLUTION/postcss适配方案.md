@@ -130,7 +130,7 @@ npm -S  postcss-px-to-viewport
 
 > 挺多相关插件都可以配合使用
 
-> 例如 kk 体育资料库 H5
+> 例如 体育资料库 H5
 
 ```js
 module.exports = {

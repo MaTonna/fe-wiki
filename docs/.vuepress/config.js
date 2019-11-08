@@ -1,5 +1,5 @@
 module.exports = {
-  title: "KK-FE-WIKI",
+  title: "FE-WIKI",
   base: "/",
   dest: "public",
   head: [

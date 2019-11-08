@@ -1,4 +1,4 @@
-## kk 前端百科
+## 前端百科
 
 &#160; &#160; &#160; &#160;为了提升工作效率，利用空闲时间列出工作中常用的 css、js 方法或技巧。
 
@@ -21,10 +21,6 @@ npm install -g nodemon
 
 npm run start
 ```
-
-编写前需要 git pull 拉去代码，避免冲突。
-
-提交时提交源文件，然后通知 wiki 负责人构建后重新部署到内网http://kkfe-wiki.biz.cloud.net/上，不可删除项目里的.rancher-pipeline.yml Dockerfile deployment.yaml 三个文件！！否则无法部署！！
 
 ### 文件夹分类
 
