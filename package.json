@@ -5,7 +5,7 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.27.0",
     "vuepress": "^1.0.2"
   }
 }
